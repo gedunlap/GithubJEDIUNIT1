@@ -46,3 +46,14 @@ git log
 ```
 git log --online
 ```
+
+---
+## Working with Remotes (enterprise, github, gitlab)
+
+- to add a remote `git remote add <name> <url>`
+
+- to see list of remotes `git remote -v`
+
+- to push the code `git push <remoteName> <branchName>`
+
+- to see your current branch `git branch`
