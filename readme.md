@@ -35,3 +35,14 @@ Three ways to add files to staging
 git commit -m "some descriptive text"
 ```
 **If you forget the -m, you will end up in vim, to exit type `:wq`**
+
+---
+
+## Looking At Our Commit History
+
+```
+git log
+```
+```
+git log --online
+```
